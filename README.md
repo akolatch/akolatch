@@ -1,8 +1,11 @@
 <div align="center">
   
-  ### Hi I'm Aharon
+  # Hi I'm Aharon
   
 #### Welcome to my Github
+[![LinkedIn](https://img.shields.io/badge/akolatch%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aharon-kolatch/)](https://www.linkedin.com/in/aharon-kolatch/)
+[![GitHub](https://img.shields.io/badge/akolatch%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/akolatch)](https://github.com/akolatch)
+[![Gmail](https://img.shields.io/badge/akolatch%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:aaron.kolatch@gmail.com)](mailto:aaron.kolatch@gmail.com)
 
 ### Some languages and tools that I use:
 </div>
