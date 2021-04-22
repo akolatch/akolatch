@@ -30,14 +30,6 @@
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -46,6 +38,15 @@
       height="40"
     />
   </a>
+  <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
+      alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 
   <a href="https://reactjs.org/" target="_blank">
     <img
