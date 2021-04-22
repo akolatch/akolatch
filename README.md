@@ -1,7 +1,11 @@
-### Hi I'm Aharon
+<div align="center">
+  
+  ### Hi I'm Aharon
+  
 #### Welcome to my Github
 
-
+### Some languages and tools that I use:
+</div>
 <p align="center">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
